@@ -1,0 +1,9 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/front.jpg" filesize="191999" filedate="2022-05-28 09:05:41" width="995px" height="1440px"/>
+<image path="images/frontispiece.jpg" filesize="552415" filedate="2022-05-28 09:05:41" width="1440px" height="1053px"/>
+<image path="images/kruger.jpg" filesize="207352" filedate="2022-05-28 09:05:41" width="710px" height="859px"/>
+<image path="images/plate1.jpg" filesize="438436" filedate="2022-05-28 09:05:41" width="945px" height="1440px"/>
+<image path="images/plate2.jpg" filesize="482887" filedate="2022-05-28 09:05:41" width="1440px" height="946px"/>
+<image path="images/qr68193.png" filesize="339" filedate="2022-05-28 18:39:44" width="296px" height="296px"/>
+<image path="images/titlepage.png" filesize="28008" filedate="2022-05-28 09:05:41" width="923px" height="1440px"/>
+</images>
